@@ -3,7 +3,7 @@
 # Cristopher Dauros Deij
 
 INTRODUCCIÓN
-El algoritmo que se presenta a continuación corresponde a la implementación de una aplicación de gestión de información turistica, la cual poseee una serie de funcionalidades que permiten almacenar, revisar y eliminar información tanto sobre turistas como de lugares turísticos de interés. Lo anterior se puede realizar de manera sencilla accediendo a alguna de las 10 opciones desplegadas en el menú de la aplicación. Este menú posee las siguientes opciones:
+El algoritmo que se presenta a continuación corresponde a la implementación de una aplicación de gestión de información turistica, la cuál poseee una serie de funcionalidades que permiten almacenar, revisar y eliminar información tanto sobre "turistas" como "lugares turísticos de interés". Lo anterior se puede realizar de manera sencilla accediendo a alguna de las 10 opciones desplegadas en el menú de la aplicación. Este menú posee las siguientes opciones:
 
 1. **Registrar punto de interés** (char* nombre, char* tipo, char* dirección, char* horario, char* descripción): El usuario ingresa los datos del lugar y la aplicación los almacena. La validación de los datos debe asegurar que ningún campo char* tenga un largo mayor a 100 caracteres.
    
