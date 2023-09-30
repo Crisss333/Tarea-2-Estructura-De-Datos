@@ -27,7 +27,7 @@ El algoritmo que se presenta a continuación corresponde a la implementación de
 
 
 PROBLEMA CONOCIDO:
-Si el formato en que se ingresa el horario de un lugar de interés posee la siguiente forma "hh:mm - hh:mm", la aplicación comienza a desplegar el menú en un bucle infinito hasta que uno detenga la ejecución del programa. Cualquier otro formato de horario ingresado (ej: "hh:mm-hh:mm") no causa ningún problema en la aplicación. 
+Al momento de "registrar un punto de interés", si el formato en que se ingresa el horario de este posee la siguiente forma "hh:mm - hh:mm", la aplicación comienza a desplegar el menú en un bucle infinito hasta que uno detenga la ejecución del programa. Cualquier otro formato de horario ingresado (ej: "hh:mm-hh:mm") no genera problema alguno en la aplicación. 
 
 
 CÓMO COMPILAR Y EJECUTAR EL PROGRAMA
